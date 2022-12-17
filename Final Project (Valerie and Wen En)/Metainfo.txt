@@ -1,0 +1,12 @@
+Name of Quantlet : DEDA_StatisticsFinance - Final Project
+Published in : Digital Economy and Decision Analytics
+Description : Analysis of Covid Sentiment of Twitter Users in Switzerland
+
+Keywords :
+- Twitter Scraping
+- Pre-processing
+- Text Blob
+- Sentiment Analysis
+- Word Cloud
+
+Authors : Valerie Lai and Lim Wen En
