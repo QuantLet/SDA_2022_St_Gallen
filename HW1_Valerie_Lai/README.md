@@ -12,10 +12,10 @@ Published in: SDA_2022_St_Gallen
 Description: Demonstrating a basic image filter using Fourier Transformation
 
 Keywords: 
-- 'Python
-- 'Numpy
-- 'Scipy
-- 'Matplotlib
+- Python
+- Numpy
+- Scipy
+- Matplotlib
 
 Author: Valerie Lai
 
